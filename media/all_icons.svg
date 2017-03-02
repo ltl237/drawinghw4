@@ -1,0 +1,126 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+	<symbol id="baseball" viewBox="0 0 500 500">
+		<title>Baseball</title>
+		<g id="Layer_1">
+		<circle fill="#FFFFFF" stroke="#8C8C8C" stroke-miterlimit="10" cx="243.364" cy="218.1" r="45"/>
+		<path fill="none" stroke="#F70000" stroke-miterlimit="10" d="M207.399,192.154c11.22-1.535,24.746,10.607,31.391,28.863
+			c6.555,18.008,4.155,35.766-5.111,42.038"/>
+			<g>
+				<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="210.549" y1="194.638" x2="217.297" y2="193.794"/>
+				<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="216.465" y1="186.693" x2="217.309" y2="193.441"/>
+			</g>
+		</g>
+		<g id="Layer_2">
+			<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="220.549" y1="201.639" x2="227.297" y2="200.795"/>
+			<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="226.465" y1="193.693" x2="227.309" y2="200.441"/>
+			<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="225.549" y1="209.639" x2="232.297" y2="208.795"/>
+			<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="231.465" y1="201.693" x2="232.309" y2="208.441"/>
+			<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="230.901" y1="216.981" x2="237.693" y2="217.34"/>
+			<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="238.125" y1="210.202" x2="237.766" y2="216.994"/>
+			<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="233.901" y1="224.981" x2="240.693" y2="225.34"/>
+			<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="241.125" y1="218.202" x2="240.766" y2="224.994"/>
+			<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="235.901" y1="233.981" x2="242.693" y2="234.34"/>
+			<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="243.125" y1="227.202" x2="242.766" y2="233.994"/>
+			<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="236.14" y1="240.254" x2="242.646" y2="242.237"/>
+			<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="244.783" y1="235.414" x2="242.799" y2="241.919"/>
+			<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="236.038" y1="249.188" x2="241.551" y2="253.171"/>
+			<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="245.783" y1="247.407" x2="241.799" y2="252.919"/>
+			<g>
+				<path fill="none" stroke="#F70000" stroke-miterlimit="10" d="M279.783,245.594c-11.22,1.535-24.746-10.607-31.391-28.863
+					c-6.555-18.008-4.155-35.766,5.111-42.037"/>
+				<g>
+					<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="276.634" y1="243.109" x2="269.886" y2="243.953"/>
+					<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="270.718" y1="251.055" x2="269.874" y2="244.307"/>
+				</g>
+				<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="266.634" y1="236.109" x2="259.886" y2="236.953"/>
+				<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="260.718" y1="244.055" x2="259.874" y2="237.307"/>
+				<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="261.634" y1="228.109" x2="254.886" y2="228.953"/>
+				<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="255.718" y1="236.055" x2="254.874" y2="229.307"/>
+				<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="256.281" y1="220.767" x2="249.489" y2="220.408"/>
+				<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="249.058" y1="227.546" x2="249.417" y2="220.754"/>
+				<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="253.281" y1="212.767" x2="246.489" y2="212.408"/>
+				<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="246.058" y1="219.546" x2="246.417" y2="212.754"/>
+				<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="251.281" y1="203.767" x2="244.489" y2="203.408"/>
+				<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="244.058" y1="210.546" x2="244.417" y2="203.754"/>
+				<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="251.043" y1="197.494" x2="244.537" y2="195.511"/>
+				<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="242.399" y1="202.334" x2="244.384" y2="195.829"/>
+				<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="251.146" y1="188.561" x2="245.632" y2="184.577"/>
+				<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="241.399" y1="190.341" x2="245.384" y2="184.829"/>
+			</g>
+		</g>
+		</symbol>
+
+	<symbol id="basketball" viewBox="0 0 500 500">
+		<title>Basketball</title>
+		<g>
+			<circle fill="#FFFFFF" stroke="#F79928" stroke-miterlimit="10" cx="260.422" cy="190.126" r="45"/>
+			<path fill="none" stroke="#F79928" stroke-miterlimit="10" d="M224.399,163.154c11.22-1.535,24.746,10.607,31.391,28.863
+				c6.555,18.009,4.155,35.767-5.111,42.037"/>
+			<path fill="none" stroke="#F79928" stroke-miterlimit="10" d="M296.13,217.513c-11.131,1.159-24.387-10.904-30.943-28.917
+				c-6.645-18.258-4.088-36.256,5.498-42.29"/>
+			<line fill="none" stroke="#F79928" stroke-miterlimit="10" x1="245.057" y1="147.618" x2="275.839" y2="232.19"/>
+			<line fill="none" stroke="#F79928" stroke-miterlimit="10" x1="217.862" y1="205.935" x2="302.435" y2="175.154"/>
+		</g>
+	</symbol>
+
+	<symbol id="football" viewBox="0 0 500 500">
+		<title>Football</title>
+		<ellipse fill="#D2691E" stroke="#F4A460" stroke-miterlimit="10" cx="240.446" cy="208.417" rx="45" ry="22.5"/>
+		<g>
+			<line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="215" y1="205.5" x2="267" y2="205.5"/>
+			<line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="219.5" y1="201" x2="219.5" y2="213"/>
+			<line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="229.5" y1="201" x2="229.5" y2="213"/>
+			<line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="242.5" y1="201" x2="242.5" y2="213"/>
+			<line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="252.5" y1="201" x2="252.5" y2="213"/>
+			<line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="262.5" y1="201" x2="262.5" y2="213"/>
+		</g>
+		<path fill="none" stroke="#FFFFFF" stroke-miterlimit="10" d="M211.667,225c0-16.582-4.09-30-9.146-30"/>
+		<path fill="none" stroke="#FFFFFF" stroke-miterlimit="10" d="M268.521,191c0,16.582,4.09,30,9.145,30"/>
+	</symbol>
+
+	<symbol id="pingpong" viewBox="0 0 500 500">
+		<title>Ping Pong</title>
+		<path fill="#CD853F" stroke="#000000" stroke-miterlimit="10" d="M244.5,269c0,6.352-5.149,11.5-11.5,11.5l0,0
+			c-6.351,0-11.5-5.148-11.5-11.5v-41c0-6.351,5.149-11.5,11.5-11.5l0,0c6.351,0,11.5,5.149,11.5,11.5V269z"/>
+		<ellipse fill="#FF0000" stroke="#000000" stroke-miterlimit="10" cx="234.149" cy="197.396" rx="40.496" ry="42.149"/>
+	</symbol>
+
+	<symbol id="puck" viewBox="0 0 500 500">
+		<title>Puck</title>
+		<g>
+			<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M147.584,164.927c-0.6-1.465-0.915-2.981-0.915-4.535
+				c0-12.426,20.147-22.5,45-22.5s45,10.074,45,22.5c0,1.271-0.211,2.518-0.616,3.731"/>
+			<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M236.053,164.124c-3.555,10.65-22.073,18.769-44.384,18.769
+				c-21.747,0-39.89-7.713-44.085-17.965"/>
+			<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="146.5" y1="160" x2="146.5" y2="186"/>
+			<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="236.5" y1="160" x2="236.5" y2="186"/>
+			<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M236.386,185.124c-3.608,10.65-22.405,18.769-45.052,18.769
+				c-22.074,0-40.491-7.713-44.75-17.965"/>
+		</g>
+	</symbol>
+
+	<symbol id="tennisball" viewBox="0 0 500 500" >
+		<title>Tennis Ball</title>
+		<circle fill="#00FF00" cx="248.364" cy="215.752" r="45"/>
+		<path fill="none" stroke="#FFFFFF" stroke-miterlimit="10" d="M218.341,181.314c12.072,8.071,20.022,21.826,20.022,37.438
+			c0,13.864-6.27,26.264-16.129,34.519"/>
+		<path fill="none" stroke="#FFFFFF" stroke-miterlimit="10" d="M276.369,250.299c-9.209-8.24-15.006-20.217-15.006-33.547
+			c0-14.058,6.446-26.609,16.544-34.861"/>
+	</symbol>
+
+	<symbol id="ref" viewBox="0 0 500 500">
+		<title>Referee</title>
+		<rect x="175.5" y="204.5" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" width="72" height="107"/>
+		<rect x="151.5" y="204.5" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" width="24" height="52"/>
+		<rect x="247.5" y="204.5" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" width="24" height="52"/>
+		<line fill="#FFFFFF" stroke="#000000" stroke-width="6" stroke-miterlimit="10" x1="186" y1="205" x2="186" y2="311"/>
+		<line fill="#FFFFFF" stroke="#000000" stroke-width="6" stroke-miterlimit="10" x1="201" y1="205" x2="201" y2="311"/>
+		<line fill="#FFFFFF" stroke="#000000" stroke-width="6" stroke-miterlimit="10" x1="215" y1="205" x2="215" y2="311"/>
+		<line fill="#FFFFFF" stroke="#000000" stroke-width="6" stroke-miterlimit="10" x1="231" y1="205" x2="231" y2="311"/>
+		<line fill="#FFFFFF" stroke="#000000" stroke-width="6" stroke-miterlimit="10" x1="257" y1="205" x2="257" y2="257"/>
+		<line fill="#FFFFFF" stroke="#000000" stroke-width="6" stroke-miterlimit="10" x1="164" y1="205" x2="164" y2="257"/>
+		<ellipse fill="#FFFFFF" cx="212.785" cy="206.487" rx="18.182" ry="14.05"/>
+	</symbol>
+
+
+</svg>
